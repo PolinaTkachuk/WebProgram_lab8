@@ -1,0 +1,36 @@
+/*Обнуление*/
+*{padding: 0;margin: 0;border: 0; }
+
+/*--------------------*/
+.content{
+   font-size: 14px;
+}
+
+.input_new{
+   border: solid grey 1.3px;
+   width: 175px;
+   height: 20px;
+   margin: 0 -4px 0 0;
+   border-radius: 2%;
+   
+}
+.button_{
+   border: solid  grey 1.2px;
+   padding: 4px 5px -2px 0px;
+   margin: 0px -4px 0 0px;
+   width: 28px;
+   height: 22.5px;
+   border-radius: 7%;
+  
+}
+.img_{
+   width:11px ;
+   height:11px;
+}
+
+.button{
+   display: block;
+   text-align: center;
+   border: solid  grey 1px;
+   padding: 3px 5px;
+}
